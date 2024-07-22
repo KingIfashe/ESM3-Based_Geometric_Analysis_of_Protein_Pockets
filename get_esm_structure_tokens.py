@@ -1,5 +1,10 @@
+## this uses esm3's strucural encoder to generate structural tokens from pdb structures
+## then calculates token similarity and RMSD relative to a reference structure
+## then plots token similarity (%) against RMSD (A)
+
 ## !pip install esm
 ## !pip install huggingface_hub
+
 
 from google.colab import files
 import zipfile
