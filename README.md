@@ -1,6 +1,8 @@
 
 ![image1](assets/title.png)
 
+## **Background and Motivation** 
+
 ![image2](assets/methods.png)
 
 ![image3](assets/transformer.png)
@@ -20,6 +22,19 @@
 3) Benchmark against SOTA descriptors. (FPocket, LIGSITE, DEEPSITE) 
 
 4) Evaluate protein similarity using various metrics. Train a model specifically for binding pocket analysis.
+
+## **Results** 
+
+![image5](assets/token_sim.png)
+
+![image6](assets/NN.png)
+
+![image7](assets/cluster3.png)
+
+
+
+
+
 
 
 
