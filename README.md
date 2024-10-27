@@ -31,6 +31,7 @@
 
 ![image7](assets/cluster3.png)
 
+![image7](assets/sanity2.png)
 
 
 
