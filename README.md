@@ -29,6 +29,22 @@
 
 ![image6](assets/NN.png)
 
+![image7](assets/cluster3.png)
+
+![image8](assets/cvalid.png)
+
+![image9](assets/sanity.png)
+
+![image10](assets/unique.png)
+
+![image11](assets/dssp.png)
+
+![image12](assets/sasa.png)
+
+![image13](assets/restype.png)
+
+
+
 
 
 
